@@ -37,6 +37,4 @@ window.onload = function() {
   document.getElementById("generateExcuse").onclick = function() {
     document.getElementById("excuse").innerHTML = generarExcusa();
   };
-
-  console.log("Hello Rigo from the console!");
 };
